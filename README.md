@@ -1,4 +1,4 @@
-# My-Things
+# Read_me for run_analysis.r
 run_analaysis assumes that all the data is present in the same folder, un-compressed and without names altered.
 
 CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
