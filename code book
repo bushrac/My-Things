@@ -1,0 +1,4 @@
+X_train, y_train, X_test, y_test, subject_train and subject_test contain the data from the downloaded files.
+X_table, y_table and subject_table merge the previous datasets to further analysis.
+features contains the correct names for the X_table dataset, which are applied to the column names stored in mean_and_std     
+Finally, averages_data contains the relevant averages which is stored in a .txt file. ddply() from the plyr package is used to apply colMeans() and ease the development.
